@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Census\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Census.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Census\src\Main\obj\Release\Tamu.GeoInnovation.Common.Census.dll
